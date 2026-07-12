@@ -248,7 +248,7 @@ section > * {
 
   background-image:
     linear-gradient(rgba(251, 244, 233, 0.18), rgba(251, 244, 233, 0.18)),
-    url("/assets/images/background.png");
+    url("assets/images/background.png");
 
   background-position: center;
   background-repeat: no-repeat;
