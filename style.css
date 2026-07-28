@@ -530,6 +530,12 @@ footer {
   line-height: 1.85;
 }
 
+.footer-contact {
+  font-family: "Cormorant SC", serif;
+  font-size: clamp(1rem, 5vw, 1.5rem);
+  font-weight: 400;
+}
+
 .footer-credits {
   font-family: "Cormorant SC", serif;
   font-size: clamp(1rem, 5vw, 1.5rem);
